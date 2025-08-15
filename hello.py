@@ -1,6 +1,5 @@
 #!/usr/bin/python
 #!encoding: utf-8
-test
  
 
 def hello():
